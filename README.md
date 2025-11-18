@@ -1,5 +1,38 @@
-# 💫 About Me:
-👋 Hey, I’m Alfie!<br><br>🔭 I’m currently working on a software project (still figuring out the perfect idea, but building small tools to sharpen my skills).<br>🤝 I’m looking to collaborate on any software that helps people—open-source utilities, small web apps, or beginner-friendly Python projects.<br>👐 I’m looking for help with nothing just yet, but I’m always open to learning from more experienced developers.<br>🌱 I’m currently learning deeper backend concepts and Kotlin, and preparing myself for opportunities like the J.P. Morgan software engineering apprenticeship.<br>💬 Ask me about anything to do with software and Python—I love explaining concepts in a simple way.<br>⚡ Fun fact: Gaming is what brought me here.
+💫 About Me:
+
+👋 Hi, I’m Alfie — a beginner software developer building projects to learn real skills and prepare for the J.P. Morgan Software Engineering Apprenticeship.
+
+🔭 What I’m Working On
+
+Building small Python and backend-focused projects
+
+Developing a few real-world tools to improve my GitHub portfolio
+
+Exploring Kotlin for Android development
+
+🌱 What I’m Learning
+
+Backend fundamentals (APIs, databases, authentication)
+
+Python best practices
+
+Java basics
+
+🤝 Collaboration
+
+I’m open to contributing to beginner-friendly open-source projects, tools that help people, or anything that teaches me something new.
+
+💬 Ask Me About
+
+Python fundamentals
+
+Getting started with programming
+
+How I build my projects step-by-step
+
+⚡ Fun Fact
+
+Gaming got me into coding — now I want to build real software
 
 
 ## 🌐 Socials:
